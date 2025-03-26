@@ -47,7 +47,7 @@ Challenge yourself to classify 10 vulnerable functions in 30 seconds!
 
 ![](../public/demo.png)
 
-Chances are, you can't identify vulnerabilites as fast as AI (and you probably got some wrong). This highlights how AI can revolutionise software security by automating source code review and with greater accuracy compared to humans.
+Chances are, you can't identify vulnerabilites as fast as AI (and you probably got some wrong). This highlights how AI can revolutionise software security by automating source code review and with greater speed and accuracy compared to humans.
 
 On another note, this emphasises the importance of curating large and accurate datasets to train such AI models, which is the main focus of NeuralSentry.
 
